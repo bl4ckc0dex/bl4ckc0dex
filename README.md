@@ -10,4 +10,4 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 📊 Mi HackTheBox
-![31746234.png](https://app.hackthebox.com/users/676298)
+![https://raw.githubusercontent.com/h4cklog4j/h4cklog4j/main/31746234.png](https://app.hackthebox.com/users/676298)
