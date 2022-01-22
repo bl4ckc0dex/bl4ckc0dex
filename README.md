@@ -3,7 +3,7 @@
 - Soy Fanatico de la informatica en general ✅  
 - Amo los lenguajes de programacion, sea el que sea 🐧
 ### Contactame
-- 📲 Discord: log4j.c#8046
+- ***Discord***: log4j.c#8046
 
 ---
 ### 📊 Lenguajes que tengo dominados.
